@@ -14,6 +14,9 @@
 
 ## <a name="introduction"></a>
 
+## <a name="introduction">🏄 Explore Now</a>
+This website is fully deployed on vercel, and could be accessed by this url: https://xora-react-ivory.vercel.app/
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
@@ -43,7 +46,7 @@ sections.
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🤸 Quick Start (Help to Improve)</a>
 
 Follow these steps to set up the project locally on your machine.
 
