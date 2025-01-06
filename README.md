@@ -1,5 +1,12 @@
 # React + Vite
 
+<div align="center">
+  <br />
+    <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
+      <img width="1499" alt="landing" src="https://github.com/user-attachments/assets/f96a7ed7-d2a1-4ba1-9e59-42500755fbc4" />
+    </a>
+  <br />
+
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
