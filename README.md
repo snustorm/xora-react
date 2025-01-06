@@ -1,4 +1,4 @@
-# React + Vite
+<h3 align="center">Modern UI/UX Landing Page</h3>
 
 <div align="center">
   <br />
